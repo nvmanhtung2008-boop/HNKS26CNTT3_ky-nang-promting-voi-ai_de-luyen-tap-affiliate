@@ -2,7 +2,7 @@
 
 - **Họ tên:Nguyễn Văn Mạnh Tùng**
 - **Lớp:HNKS26CNTT3**
-- **Link repository :https://github.com/nvmanhtung2008-boop/HNKS26CNTT3_ky-nang-promting-voi-ai_de-luyen-tap-affiliate**
+- **Link repository :https://github.com/nvmanhtung2008-boop/HNKS26CNTT3_ky-nang-promting-voi-ai_de-luyen-tap-affiliate.git**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
